@@ -1,7 +1,7 @@
 #pragma once
 
-class operatorBase{
+class Strategy{
 public:
-    // 纯虚函数
+    virtual void getData() = 0;
     const virtual double getResult() = 0;
 };

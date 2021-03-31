@@ -16,6 +16,7 @@ public:
     operFactory(char c) : oper{c}{
 
     };
+    // const没有意义，返回的不是常量引用或者常量指针就不需要const限定，因为总归是要赋值给其他变量的
     operatorBase* createOperate(double x, double y){
         switch (this->oper) {
             case '+' : return new operatorAdd(x, y); break;
