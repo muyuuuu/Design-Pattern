@@ -5,3 +5,4 @@ C++ 复现《大话设计模式》。每个模式中会有一个 `README` 来介
 1. Factory mode，简单工厂模式
 2. Strategy mode，策略模式
 3. Single responsibility principle，单一职责原则
+4. Open-Closed Principle，开闭原则
