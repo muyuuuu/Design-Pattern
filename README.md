@@ -6,3 +6,4 @@ C++ 复现《大话设计模式》。每个模式中会有一个 `README` 来介
 2. Strategy mode，策略模式
 3. Single responsibility principle，单一职责原则
 4. Open-Closed Principle，开闭原则
+5. Dependency inversion principle，依赖倒转原则
