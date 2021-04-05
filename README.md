@@ -7,6 +7,6 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Factory mode                     | 简单工厂模式 | :heavy_check_mark: |
 | Strategy mode                    | 策略模式    | :heavy_check_mark: |
 | Single responsibility principle  | 单一职责原则 | :x:                |
-| Open-Closed Principl             | 开闭原则    | :x:                |
+| Open-Closed Principle            | 开闭原则    | :x:                |
 | Dependency inversion principle   | 依赖倒转原则 | :x:                |
 | Decoration mode                  | 装饰模式    | :heavy_check_mark: |
