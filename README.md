@@ -11,3 +11,4 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Dependency inversion principle   | 依赖倒转原则 | :x:                |
 | Decoration mode                  | 装饰模式    | :heavy_check_mark: |
 | Proxy mode                       | 代理模式    | :heavy_check_mark: |
+| Factory Method Pattern           | 工厂方法模式 | :heavy_check_mark: |
