@@ -13,3 +13,4 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Proxy mode                       | 代理模式    | :heavy_check_mark: |
 | Factory Method Pattern           | 工厂方法模式 | :heavy_check_mark: |
 | Prototype Pattern                | 原型模式    | :heavy_check_mark: |
+| Template Method Pattern          | 模板方法模式 | :heavy_check_mark: |
