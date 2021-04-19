@@ -19,3 +19,9 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Builder Pattern                  | 建造者模式   | :heavy_check_mark: |
 | Subscribe Pattern                | 观察者模式   | :heavy_check_mark: |
 | Abstract Factory Pattern         | 抽象工厂模式 | :heavy_check_mark: |
+| State Pattern                    | 状态模式     | :heavy_check_mark: |
+
+# 遗留
+
+- [ ] 抽象工厂模式中反射的 C++ 实现
+- [ ] 状态模式中的 bug 修复
