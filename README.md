@@ -21,6 +21,7 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Abstract Factory Pattern         | 抽象工厂模式 | :heavy_check_mark: |
 | State Pattern                    | 状态模式     | :heavy_check_mark: |
 | Adapter Pattern                  | 适配器模式   | :heavy_check_mark: |
+| Memento Pattern                  | 备忘录模式   | :heavy_check_mark: |
 
 # 遗留
 
