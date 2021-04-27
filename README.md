@@ -26,6 +26,7 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Iterator Pattern                | 迭代器模式   | :heavy_check_mark: |
 | Singleton Pattern               | 单例模式     | :heavy_check_mark: |
 | Bridge Pattern                  | 桥接模式     | :heavy_check_mark: |
+| Command Pattern                 | 命令模式     | :heavy_check_mark: |
 
 # 遗留
 
