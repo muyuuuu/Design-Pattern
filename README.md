@@ -28,6 +28,7 @@ C++ 复现《大话设计模式》，有代码的复现，讲理论的就不复�
 | Bridge Pattern                  | 桥接模式     | :heavy_check_mark: |
 | Command Pattern                 | 命令模式     | :heavy_check_mark: |
 | Mediator Pattern                | 中介者模式   | :heavy_check_mark: |
+| Flyweight Pattern               | 享元模式     | :heavy_check_mark: |
 
 # 遗留
 
